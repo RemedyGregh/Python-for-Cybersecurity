@@ -1,10 +1,10 @@
-ABOUT THIS PROJECT:
+**ABOUT THIS PROJECT:**
 
 Python for Cybersecurity Specialization on Coursera by Howard Poston:
 
 This specialization course provides an application-driven introduction to using Python for cybersecurity, and this repository contains projects built with Python.
 
-THE REQUIRED PYTHON LIBRARIES:
+**THE REQUIRED PYTHON LIBRARIES:**
 
 ayncssh
 
@@ -32,7 +32,7 @@ urllib
 
 wmi
 
-MITRE ATT&CK TACTICS EXPLORED:
+**MITRE ATT&CK TACTICS EXPLORED:**
 
 Reconnaissance
 
