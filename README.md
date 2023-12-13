@@ -62,7 +62,7 @@ Exfiltration
 
 Impact
 
-MITRE SHIELD TACTICS EXPLORED:
+**MITRE SHIELD TACTICS EXPLORED:**
 
 Channel
 
